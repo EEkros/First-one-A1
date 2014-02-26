@@ -16,4 +16,7 @@ EE
 Magnus bodde nära årsta förut .... du vet årsta partihallar ...
 En olle till ...
 
+
+file borde vara obligatoriskt 1
+
 EE
