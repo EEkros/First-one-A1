@@ -1,0 +1,5 @@
+Olle 2
+
+Nu editerar ja in i filen som skall visa at git huub är med med sin 
+version hantering....
+EE
