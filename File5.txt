@@ -1,4 +1,4 @@
-Olle 3
+Olle 5
 
 
 Nu komplicerar vi bilden en aning.
@@ -6,6 +6,7 @@ EN fil till file 5
 
 
 obs 5
+........ ny som sagt
 
 
 Skriver in en rad i mitten av file3
