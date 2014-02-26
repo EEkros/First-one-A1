@@ -2,4 +2,9 @@ Olle 2
 
 Nu editerar ja in i filen som skall visa at git huub är med med sin 
 version hantering....
+
+
+Nu skrivar jag till en del . Bland annat rättar jag så att det står hub
+ istället för det tidigare feliga skriveriet
+
 EE
