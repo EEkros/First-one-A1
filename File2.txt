@@ -19,4 +19,15 @@ En olle till ...
 
 file borde vara obligatoriskt 1
 
+<<<<<<< HEAD
+=======
+
+
+ Nu skriver vi in en fil igen . Detn kära gamla filen file2 som 
+hittils bara svalt alla förändringar so kommit upp till ytan.
+
+
+FIle 2
+
+>>>>>>> parent of b257b21... Rensat upp lite!
 EE
