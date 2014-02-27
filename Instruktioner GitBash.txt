@@ -1,0 +1,7 @@
+1. Öppna GitBash...
+
+2. Leta reda på ditt repository på datorn med hjälp av: "cd c:/bla/bla" och "ls".
+	"ls" fungerar som "dir" i dosfönstret... "cd" är samma som "cd" i dos.
+
+3. När du befinner dig i rätt katalog laddar GitBash i rätt versionshistorik och
+	du kan börja operera som i GitHub-applikationen. 
